@@ -3,6 +3,7 @@ import './Post.css';
 import Avatar from '@material-ui/core/Avatar'
 
 function Post({  userName, caption, imageUrl, avatarUrl }) {
+
     return (
         <div class="post">
             
